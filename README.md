@@ -109,15 +109,35 @@ Developed a web-based employee management application designed to manage employe
 
 **Technologies:** C# | ASP.NET MVC | SQL Server
 
-An academic inventory management application focused on organizing products, categories, and stock information.
+An academic inventory management application developed using C#, ASP.NET MVC, and SQL Server. The system is designed to manage products, categories, inventory quantities, and stock information efficiently.
 
 **Key Features:**
 - Product and category management.
-- CRUD operations.
-- Purchase and selling price validation.
+- Create, Read, Update, and Delete (CRUD) operations.
+- Purchase price and selling price validation.
 - Inventory quantity tracking.
 - Low-stock monitoring functionality.
-- SQL Server database operations.
+- SQL Server database integration.
+- ASP.NET MVC architecture.
+- Database operations using ADO.NET.
+
+### Explore This Project
+
+<a href="https://github.com/aldoumwiza/ASP.NET-MVC-Project">
+  <img
+    src="https://img.shields.io/badge/VIEW_SOURCE_CODE-GitHub-2563EB?style=for-the-badge&logo=github&logoColor=white"
+    alt="View ASP.NET MVC Project"
+  />
+</a>
+
+<a href="https://github.com/aldoumwiza/ASP.NET-MVC-Project">
+  <img
+    src="https://img.shields.io/badge/PROJECT_REPOSITORY-ASP.NET_MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"
+    alt="ASP.NET MVC Repository"
+  />
+</a>
+
+**Project Repository:** [ASP.NET MVC Inventory Management System](https://github.com/aldoumwiza/ASP.NET-MVC-Project)
 
 ---
 
